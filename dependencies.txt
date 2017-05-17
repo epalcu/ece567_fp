@@ -1,0 +1,6 @@
+Dependencies (Python Packages):
+	a)	xlrd
+	b)	numpy
+	c)	scipy
+	d)	sci-kit learn
+	e)	matplotlib (possibly)
