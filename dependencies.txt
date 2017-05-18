@@ -4,3 +4,6 @@ Dependencies (Python Packages):
 	c)	scipy
 	d)	sci-kit learn
 	e)	matplotlib (possibly)
+	f)  futures
+	g)	wheel
+	h)  pandas
