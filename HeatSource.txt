@@ -1,0 +1,46 @@
+Heat Source
+
+00: Heat source: other
+1: Operating equipment
+10: Heat from powered equipment, other
+11: Spark, ember or flame from operating equipment
+12: Radiated, conducted heat from operating equipment
+13: Arcing
+4: Hot or Smoldering Object
+40: Hot or smoldering object, other
+41: Heat, spark from friction
+42: Molten, hot material
+43: Hot ember or ash
+5: Explosives, Fireworks
+50: Explosive, fireworks, other
+51: Munitions
+53: Blasting agent
+54: Fireworks
+55: Model and amateur rockets
+56: Incendiary device
+6: Other Open Flame or Smoking Materials
+60: Heat from other open flame or smoking materials
+61: Cigarette
+62: Pipe or cigar 
+63: Heat from undetermined smoking material
+64: Match
+65: Cigarette lighter
+66: Candle
+67: Warning or road flare; fuse
+68: Backfire from internal combustion engine
+69: Flame/torch used for lighting
+7: Chemical, Natural Heat Sources
+70: Chemical, natural heat source, other
+71: Sunlight
+72: Chemical reaction
+73: Lightning
+74: Other static discharge
+8: Heat Spread from Another Fire
+80: Heat spread from another fire, other
+81: Heat from direct flame, convection currents
+82: Radiated heat from another fire
+83: Flying brand, ember, spark
+84: Conducted heat from another fire
+9: Other Heat Sources
+97: Multiple heat sources including multiple ignitions
+100: Undetermined (UU)
