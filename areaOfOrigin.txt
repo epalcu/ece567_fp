@@ -1,0 +1,106 @@
+0: Means of Egress
+00: Other
+01: Corridor, mall
+02: Exterior stairway, ramp, or fire escape
+03: Interior stairway or ramp
+04: Escalator - exterior, interior
+05: Entrance way, lobby
+09: Egress/exit, other
+1: Assembly, Sales Areas (Groups of People)
+10: Assembly or sales area, other
+11: Arena, assembly area w/ fixed seats - 100+ persons
+12: Assembly area without fixed seats - 100+ persons
+13: Assembly area - less than 100 persons
+14: Common room, den, family room, living room, lounge
+15: Sales area, showroom (exclude display window)
+16: Art gallery, exhibit hall, library
+17: Swimming pool
+2:  Function Area
+20: Function area, other
+21: Bedroom - < 5 persons; included are jail or prison
+22: Bedroom - 5+ persons; including barrack/dormitory
+23: Dining room, cafeteria bar area, beverage service
+24: Cooking area, kitchen
+25: Bathroom, checkroom, lavatory, locker room
+26: Laundry area, wash house (laundry)
+27: Office
+28: Personal service area, barber/beauty salon area
+3: Technical Processing Areas
+30: Technical processing areas, other
+31: Laboratory
+32: Dark room, photography area, or printing area
+33: Treatment - first aid area, surgery area
+34: Surgery area - major operations, operating room
+35: Computer room, control room or center
+36: Stage area - performance, basketball court, boxing
+37: Projection room, spotlight area
+38: Processing/manufacturing area, workroom
+4: Storage Areas
+40: Storage area, other
+41: Storage room, area, tank, or bin
+42: Closet
+43: Storage: supplies or tools; dead storage
+44: Records storage room, storage vault
+45: Shipping/receiving area; loading area, dock or bay
+46: Chute/container - trash, rubbish, waste
+47: Vehicle storage area; garage, carport
+5: Service Areas
+50: Service facilities, other
+51: Dumbwaiter or elavator shaft
+52: Conduit, pipe, utility, or ventilation shaft
+53: Light shaft
+54: Chute; laundry or mail, excluding trash chutes
+55: Duct: hvac, cable, exhaust, heating, or AC
+56: Display window
+57: Chimney (conversion only)
+58: Conveyor
+6: Service, Equipment Areas
+60: Equipment or service area, other
+61: Machinery room or area; elevator machinery room
+62: Heating room or area, water heater area
+63: Switchgear area, transformer vault
+64: Incinerator area
+65: Maintenance shop or area, paint shop or area
+66: Cell, test
+67: Enclosure, pressurized air
+68: Enclosure with enriched oxegen atmosphere
+7: Structural Areas
+70: Structural area, other
+71: Substructure area or space, crawl space
+72: Exterior balcony, unenclosed porch
+73: Ceiling & floor assembly, crawl space b/t stories
+74: Attic: vacant, crawl space above top story, cupola
+75: Wall assembly
+76: Wall surface: exterior
+77: Roof surface: exterior
+78: Awning
+8: Transportation, Vehicle Areas
+80: Vehicle area, other
+81: Operator/passenger area of transportation equip.
+82: Cargo/trunk area - all vehicles
+83: Engine area, running gear, wheel area
+84: Fuel tank, fuel line
+85: Separate operator/control area of transportation
+86: Exterior, exposed surface
+9: Other Area of Origin
+90: Outside area, other
+91: Railroad right of way: on or near
+92: Highway, parking lot, street: on or near
+93: Courtyard, patio, porch, terrace
+94: Open area - outside; included are farmland, field
+95: Wildland, woods
+96: Construction/renovation area
+97: Multiple areas
+98: Vacant structural area
+100: Undetermined (UU)
+
+
+
+
+
+
+
+
+
+
+
