@@ -40,14 +40,19 @@ def add_to_dict(n_make):
 
         # Make sure year and origin data exist
         if (year_val != xlrd.empty_cell.value and origin_val != xlrd.empty_cell.value and model_val != xlrd.empty_cell.value):
+            
             # Only care about fires that occur within vehicle and not outside source
             if (origin_val[0] == "8"):
+                
                 # If model already exists, add year and origin data
                 if (model_val in makes[n_make].keys()):
+                    
                     # Add model year to make key within dictionary of makes
                     makes[n_make][model_val]["year"].append(year_val)
+                    
                     # Add model origin to make key within dictionary of makes
                     makes[n_make][model_val]["origin"].append(int(float(origin_val)))
+                    
                 # Otherwise, create it
                 else:
                     makes[n_make][model_val] = { "year": [year_val], "origin": [int(float(origin_val))] }
@@ -56,6 +61,7 @@ def add_to_dict(n_make):
 
 # Traverse across rows
 for row in range(1, sheet.nrows):
+    
     # If make is a Chevrolet
     if (sheet.cell(row, make).value == "CH"):
         add_to_dict("Chevrolet")
