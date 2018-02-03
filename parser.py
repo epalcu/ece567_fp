@@ -54,8 +54,10 @@ def add_to_dict(n_make):
 
         # Make sure year and origin data exist
         if (year_val != xlrd.empty_cell.value and origin_val != xlrd.empty_cell.value):
+          
             # Add model year to "Ford" key within dictionary of makes
             makes[n_make]["year"].append(year_val)
+            
             # Add model origin to "Ford" key within dictionary of makes
             makes[n_make]["origin"].append(int(float(origin_val)))
     finally:
@@ -63,6 +65,7 @@ def add_to_dict(n_make):
 
 # Traverse across rows
 for row in range(1, num_rows):
+  
     # If make is a Chevrolet
     if (sheet.cell(row, make).value == "CH"):
         add_to_dict("Chevrolet")
